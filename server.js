@@ -41,6 +41,5 @@
 // const { kopayptirish } = require("./hisob");
 // const calculate = require("./hisob");
 // const natija = calculate.
-const calculate = require("./hisob");
-const natija = calculate.qoshish(50, 50);
-console.log(`natijani chiqar: ${natija}`);
+
+const calculate = require();
