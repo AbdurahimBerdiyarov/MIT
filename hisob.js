@@ -13,9 +13,3 @@
 // };
 
 // module.exports = hisob;
-let hoorwen = {};
-
-hoorwen.qoshish = (a, b) => {
-  return a + b;
-};
-module.exports = hoorwen;
